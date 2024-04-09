@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science Portfolio on Nikhil Sai Jaddu</title>
+    <link>https://nikhildeveloper.github.io/hugo_portfolio/</link>
+    <description>Recent content in Computer Science Portfolio on Nikhil Sai Jaddu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://nikhildeveloper.github.io/hugo_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Railway Tweet Analysis</title>
+      <link>https://nikhildeveloper.github.io/hugo_portfolio/post/project-1/</link>
+      <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
+      <guid>https://nikhildeveloper.github.io/hugo_portfolio/post/project-1/</guid>
+      <description> Conducted sentiment analysis machine learning project, categorizing textual feedback by sentiment. Utilized Random Forest Classifier, Logistic Regression, Multinomial Naive Bayes, and Voting Classifier for model training Led text data pre-processing and vectorization using advanced techniques, enhancing model training and predictive accuracy </description>
+    </item>
+    <item>
+      <title>Project 2: Type Master</title>
+      <link>https://nikhildeveloper.github.io/hugo_portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <guid>https://nikhildeveloper.github.io/hugo_portfolio/post/project-2/</guid>
+      <description>Developed a user-friendly typing accuracy assessment tool, allowing users to gauge respective typing skills Incorporated a tech stack comprising HTML, CSS, JavaScript, and API integration to create a seamless and interactive user experience Link to GitHub Repository</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://nikhildeveloper.github.io/hugo_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nikhildeveloper.github.io/hugo_portfolio/contact/</guid>
+      <description>Follow me on these social media platforms.&#xA;Platform URL LinkedIn:|&#x9;https://www.linkedin.com/in/nikhil-sai-jaddu/&#xA;GitHub:|&#x9;https://github.com/nikhildeveloper</description>
+    </item>
+  </channel>
+</rss>
